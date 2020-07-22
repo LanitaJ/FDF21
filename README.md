@@ -10,7 +10,6 @@ First graphical project in "School 21".
 ### Rules
 ![](https://github.com/LanitaJ/FDF21/blob/master/screenshots/Screen%20Shot%202020-07-22%20at%206.25.35%20PM.png)
 ### Installation
-In the root of your repo, run this command:
 
 `git clone https://github.com/LanitaJ/FDF21.git fdf`
 ### Usage
